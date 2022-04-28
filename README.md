@@ -4,4 +4,4 @@ This project aims to analyse the behaviour of system of two 2D pixel tanks compe
 
 Run Main_1D.py, Main_2D_dis.py and Main_2D_cont.py to see the resluts of level 1, level 2 discrete action space and level 2 continuous action space.
 
-Check this [paper](https://github.com/anavartpandya/Training-2D-pixel-Tank-using-Reinforcement-Learning/blob/main/Training%20A%202D%20Pixel%20Tank%20Using%20Reinforcement%20Learning.pdf) to get further insights on the project.
+Check this [paper](https://github.com/anavartpandya/Training-2D-pixel-Tank-using-Reinforcement-Learning/blob/main/Training%20A%202D%20Pixel%20Tank%20Using%20Reinforcement%20Learning.pdf) to get more insights on the project.
